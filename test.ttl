@@ -1,0 +1,43 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ckan-dev:5000/dataset/50400074-1dbe-4e62-845a-78f6db31d75b> a dcat:Dataset ;
+    dct:creator "az-author"@az,
+        "en-author"@en,
+        "ru-author"@ru ;
+    dct:description "az-description"@az,
+        "en-description"@en,
+        "ru-description"@ru ;
+    dct:identifier "50400074-1dbe-4e62-845a-78f6db31d75b" ;
+    dct:issued "2024-06-10T15:43:36.187655"^^xsd:dateTime ;
+    dct:modified "2024-06-10T15:44:35.013641"^^xsd:dateTime ;
+    dct:publisher <http://ckan-dev:5000/organization/193321aa-83a3-48e8-bc6a-446f8a112946> ;
+    dct:title "az-title",
+        "az-title"@az,
+        "en-title"@en,
+        "ru-title"@ru ;
+    dcat:contactPoint [ a vcard:Organization ;
+            vcard:fn "az-maintainer" ;
+            vcard:hasEmail <mailto:stephenoni2@gmail.com> ] ;
+    dcat:distribution <http://ckan-dev:5000/dataset/50400074-1dbe-4e62-845a-78f6db31d75b/resource/aff34b8d-7f08-4951-9a2e-20fc74bac27c> .
+
+<http://ckan-dev:5000/dataset/50400074-1dbe-4e62-845a-78f6db31d75b/resource/aff34b8d-7f08-4951-9a2e-20fc74bac27c> a dcat:Distribution ;
+    dct:description "az-description"@az,
+        "en-description"@en,
+        "ru-description"@ru ;
+    dct:format "CSV" ;
+    dct:issued "2024-06-10T15:44:30.812967"^^xsd:dateTime ;
+    dct:modified "2024-06-10T15:44:35.029695"^^xsd:dateTime ;
+    dct:title "az-resource",
+        "az-resource"@az,
+        "en-resource"@en,
+        "ru-resources"@ru ;
+    dcat:accessURL <http://ckan-dev:5000/dataset/50400074-1dbe-4e62-845a-78f6db31d75b/resource/aff34b8d-7f08-4951-9a2e-20fc74bac27c/download/abc.csv> ;
+    dcat:byteSize 24.0 ;
+    dcat:mediaType "text/csv" .
+
+<http://ckan-dev:5000/organization/193321aa-83a3-48e8-bc6a-446f8a112946> a foaf:Organization ;
+    foaf:name "tt" .
