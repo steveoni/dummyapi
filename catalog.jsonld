@@ -1,0 +1,1481 @@
+[
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/b35ea43d-433d-4117-8314-f0e4478054a9",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T13:33:35.450034"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T15:15:25.511790"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "ru",
+"@value": "ru-r"
+},
+{
+"@value": "az-r"
+},
+{
+"@language": "az",
+"@value": "az-r"
+},
+{
+"@language": "en",
+"@value": "en-r"
+}
+],
+"http://schema.org/contentSize": [
+{
+"@value": 24
+}
+],
+"http://schema.org/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@language": "en",
+"@value": "en-r"
+},
+{
+"@language": "ru",
+"@value": "ru-r"
+},
+{
+"@value": "az-r"
+},
+{
+"@language": "az",
+"@value": "az-r"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/b35ea43d-433d-4117-8314-f0e4478054a9/download/abc.csv"
+}
+],
+"http://www.w3.org/ns/dcat#accessURL": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/b35ea43d-433d-4117-8314-f0e4478054a9/download/abc.csv"
+}
+],
+"http://www.w3.org/ns/dcat#byteSize": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#decimal",
+"@value": "24.0"
+}
+],
+"http://www.w3.org/ns/dcat#mediaType": [
+{
+"@value": "text/csv"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/4d43a791-ad81-4daa-bae9-9768dcd14b6d",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T15:15:25.526786"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-15T21:19:13.710869"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "az",
+"@value": "nümunə_cs12345"
+},
+{
+"@value": "nümunə_cs12345"
+},
+{
+"@language": "en",
+"@value": "sample_csv123445"
+},
+{
+"@language": "ru",
+"@value": ""
+}
+],
+"http://schema.org/contentSize": [
+{
+"@value": 1098
+}
+],
+"http://schema.org/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "nümunə_cs12345"
+},
+{
+"@language": "en",
+"@value": "sample_csv123445"
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": "nümunə_cs12345"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/4d43a791-ad81-4daa-bae9-9768dcd14b6d/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#accessURL": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/4d43a791-ad81-4daa-bae9-9768dcd14b6d/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#byteSize": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#decimal",
+"@value": "1098.0"
+}
+],
+"http://www.w3.org/ns/dcat#mediaType": [
+{
+"@value": "text/csv"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c",
+"@type": [
+"http://www.w3.org/ns/dcat#Dataset",
+"http://schema.org/Dataset"
+],
+"http://purl.org/dc/terms/creator": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "en",
+"@value": "ENDataset Description"
+},
+{
+"@language": "az",
+"@value": "AZ Dataset Description"
+},
+{
+"@language": "ru",
+"@value": "RU Dataset Description"
+}
+],
+"http://purl.org/dc/terms/identifier": [
+{
+"@value": "59120ab9-f860-4790-8115-15c39803534c"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T13:30:53.808645"
+}
+],
+"http://purl.org/dc/terms/mediator": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-24T11:16:55.937158"
+}
+],
+"http://purl.org/dc/terms/publisher": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/d9c24a07-9ca2-43aa-b9a1-13133c0b1fe0"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "ru",
+"@value": "RU Dataset Title"
+},
+{
+"@value": "AZ Dataset Title"
+},
+{
+"@language": "en",
+"@value": "EN Dataset Title"
+},
+{
+"@language": "az",
+"@value": "AZ Dataset Title"
+}
+],
+"http://schema.org/creator": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://schema.org/dateModified": [
+{
+"@value": "2024-07-24T11:16:55.937158"
+}
+],
+"http://schema.org/datePublished": [
+{
+"@value": "2024-07-12T13:30:53.808645"
+}
+],
+"http://schema.org/description": [
+{
+"@language": "en",
+"@value": "ENDataset Description"
+},
+{
+"@language": "az",
+"@value": "AZ Dataset Description"
+},
+{
+"@language": "ru",
+"@value": "RU Dataset Description"
+}
+],
+"http://schema.org/distribution": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/1c957253-9b93-4cb4-942e-ebd1064831b6"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/fba67897-2a21-47d8-a9be-6b4be3256a5d"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/4d43a791-ad81-4daa-bae9-9768dcd14b6d"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/b35ea43d-433d-4117-8314-f0e4478054a9"
+}
+],
+"http://schema.org/includedInDataCatalog": [
+{
+"@id": "_:N44efe80a034044c8aada5cef69b03352"
+},
+{
+"@id": "_:N1f7d0b88f3eb46559a6a7fe306232c14"
+}
+],
+"http://schema.org/license": [
+{
+"@value": "License not specified"
+}
+],
+"http://schema.org/mediator": [
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+},
+{
+"@language": "en",
+"@value": ""
+}
+],
+"http://schema.org/name": [
+{
+"@language": "az",
+"@value": "AZ Dataset Title"
+},
+{
+"@language": "ru",
+"@value": "RU Dataset Title"
+},
+{
+"@value": "AZ Dataset Title"
+},
+{
+"@language": "en",
+"@value": "EN Dataset Title"
+}
+],
+"http://schema.org/publisher": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/d9c24a07-9ca2-43aa-b9a1-13133c0b1fe0"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/az-dataset-title"
+}
+],
+"http://www.w3.org/ns/dcat#distribution": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/fba67897-2a21-47d8-a9be-6b4be3256a5d"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/4d43a791-ad81-4daa-bae9-9768dcd14b6d"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/b35ea43d-433d-4117-8314-f0e4478054a9"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/1c957253-9b93-4cb4-942e-ebd1064831b6"
+}
+]
+},
+{
+"@id": "_:N44efe80a034044c8aada5cef69b03352",
+"@type": [
+"http://schema.org/DataCatalog"
+],
+"http://schema.org/description": [
+{
+"@value": ""
+}
+],
+"http://schema.org/name": [
+{
+"@value": "idda dev"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "_:N1f7d0b88f3eb46559a6a7fe306232c14",
+"@type": [
+"http://schema.org/DataCatalog"
+],
+"http://schema.org/description": [
+{
+"@value": ""
+}
+],
+"http://schema.org/name": [
+{
+"@value": "idda dev"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/2436bbe5-fbef-4aba-a692-e64ad6c9307a",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "ru",
+"@value": "Government Services"
+},
+{
+"@language": "az",
+"@value": "Government Services"
+},
+{
+"@language": "en",
+"@value": "Government Services"
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-11T11:32:57.907045"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-11T11:37:45.299679"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "en",
+"@value": "Government Services"
+},
+{
+"@value": "Government Services"
+},
+{
+"@language": "ru",
+"@value": "Government Services"
+},
+{
+"@language": "az",
+"@value": "Government Services"
+}
+],
+"http://schema.org/contentSize": [
+{
+"@value": 349
+}
+],
+"http://schema.org/description": [
+{
+"@language": "ru",
+"@value": "Government Services"
+},
+{
+"@language": "az",
+"@value": "Government Services"
+},
+{
+"@language": "en",
+"@value": "Government Services"
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "Government Services"
+},
+{
+"@language": "en",
+"@value": "Government Services"
+},
+{
+"@language": "ru",
+"@value": "Government Services"
+},
+{
+"@language": "az",
+"@value": "Government Services"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/2436bbe5-fbef-4aba-a692-e64ad6c9307a/download/demographic.csv"
+}
+],
+"http://www.w3.org/ns/dcat#accessURL": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/2436bbe5-fbef-4aba-a692-e64ad6c9307a/download/demographic.csv"
+}
+],
+"http://www.w3.org/ns/dcat#byteSize": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#decimal",
+"@value": "349.0"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/1c957253-9b93-4cb4-942e-ebd1064831b6",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T13:31:04.460296"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-12T13:31:05.222738"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@value": "nümunə_cs"
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "en",
+"@value": "sample_csv"
+},
+{
+"@language": "az",
+"@value": "nümunə_cs"
+}
+],
+"http://schema.org/contentSize": [
+{
+"@value": 1098
+}
+],
+"http://schema.org/description": [
+{
+"@language": "en",
+"@value": ""
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@language": "az",
+"@value": "nümunə_cs"
+},
+{
+"@value": "nümunə_cs"
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "en",
+"@value": "sample_csv"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/1c957253-9b93-4cb4-942e-ebd1064831b6/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#accessURL": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/1c957253-9b93-4cb4-942e-ebd1064831b6/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#byteSize": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#decimal",
+"@value": "1098.0"
+}
+],
+"http://www.w3.org/ns/dcat#mediaType": [
+{
+"@value": "text/csv"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/fba67897-2a21-47d8-a9be-6b4be3256a5d",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+},
+{
+"@language": "en",
+"@value": ""
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-15T21:19:13.725669"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-15T21:19:13.711087"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "en",
+"@value": "sample_csvsad"
+},
+{
+"@value": "nümunə_csasf"
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": "nümunə_csasf"
+}
+],
+"http://schema.org/contentSize": [
+{
+"@value": 1098
+}
+],
+"http://schema.org/description": [
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": ""
+},
+{
+"@language": "en",
+"@value": ""
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "nümunə_csasf"
+},
+{
+"@language": "ru",
+"@value": ""
+},
+{
+"@language": "az",
+"@value": "nümunə_csasf"
+},
+{
+"@language": "en",
+"@value": "sample_csvsad"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/fba67897-2a21-47d8-a9be-6b4be3256a5d/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#accessURL": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c/resource/fba67897-2a21-47d8-a9be-6b4be3256a5d/download/samplecsvfile_2kb.csv"
+}
+],
+"http://www.w3.org/ns/dcat#byteSize": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#decimal",
+"@value": "1098.0"
+}
+],
+"http://www.w3.org/ns/dcat#mediaType": [
+{
+"@value": "text/csv"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/catalog.jsonld?page=1",
+"@type": [
+"http://www.w3.org/ns/hydra/core#PagedCollection"
+],
+"http://www.w3.org/ns/hydra/core#first": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/catalog.jsonld?page=1"
+}
+],
+"http://www.w3.org/ns/hydra/core#firstPage": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/catalog.jsonld?page=1"
+}
+],
+"http://www.w3.org/ns/hydra/core#itemsPerPage": [
+{
+"@value": 100
+}
+],
+"http://www.w3.org/ns/hydra/core#last": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/catalog.jsonld?page=1"
+}
+],
+"http://www.w3.org/ns/hydra/core#lastPage": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/catalog.jsonld?page=1"
+}
+],
+"http://www.w3.org/ns/hydra/core#totalItems": [
+{
+"@value": 2
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/d9c24a07-9ca2-43aa-b9a1-13133c0b1fe0",
+"@type": [
+"http://xmlns.com/foaf/0.1/Organization",
+"http://schema.org/Organization"
+],
+"http://schema.org/contactPoint": [
+{
+"@id": "_:Na7d1744c1c4b4afc972477fa00d55bb9"
+},
+{
+"@id": "_:Nbfc365d4f0a945159b65f6367b2ad74c"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "dataRequests-org"
+}
+],
+"http://xmlns.com/foaf/0.1/name": [
+{
+"@value": "dataRequests-org"
+}
+]
+},
+{
+"@id": "_:Na7d1744c1c4b4afc972477fa00d55bb9",
+"@type": [
+"http://schema.org/ContactPoint"
+],
+"http://schema.org/contactType": [
+{
+"@value": "customer service"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "_:Nbfc365d4f0a945159b65f6367b2ad74c",
+"@type": [
+"http://schema.org/ContactPoint"
+],
+"http://schema.org/contactType": [
+{
+"@value": "customer service"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/acef4571-dc6b-4782-83af-5cf45ba8c530",
+"@type": [
+"http://schema.org/DataDownload",
+"http://www.w3.org/ns/dcat#Distribution"
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "ru",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "az",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "en",
+"@value": "Service Usage Statistics"
+}
+],
+"http://purl.org/dc/terms/format": [
+{
+"@value": "CSV"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-11T11:37:45.309689"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-11T11:37:45.299883"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@language": "az",
+"@value": "Service Usage Statistics"
+},
+{
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "ru",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "en",
+"@value": "Service Usage Statistics"
+}
+],
+"http://schema.org/description": [
+{
+"@language": "az",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "ru",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "en",
+"@value": "Service Usage Statistics"
+}
+],
+"http://schema.org/encodingFormat": [
+{
+"@value": "CSV"
+}
+],
+"http://schema.org/name": [
+{
+"@language": "en",
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "az",
+"@value": "Service Usage Statistics"
+},
+{
+"@value": "Service Usage Statistics"
+},
+{
+"@language": "ru",
+"@value": "Service Usage Statistics"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0",
+"@type": [
+"http://www.w3.org/ns/dcat#Dataset",
+"http://schema.org/Dataset"
+],
+"http://purl.org/dc/terms/creator": [
+{
+"@language": "az",
+"@value": "John Doe"
+},
+{
+"@language": "ru",
+"@value": "John Doe"
+},
+{
+"@language": "en",
+"@value": "John Doe"
+}
+],
+"http://purl.org/dc/terms/description": [
+{
+"@language": "az",
+"@value": "AZ This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+},
+{
+"@language": "ru",
+"@value": "RU This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+},
+{
+"@language": "en",
+"@value": "EN This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+}
+],
+"http://purl.org/dc/terms/identifier": [
+{
+"@value": "247c0053-58f7-4efc-912a-dc7a95914af0"
+}
+],
+"http://purl.org/dc/terms/issued": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-11T11:32:32.285386"
+}
+],
+"http://purl.org/dc/terms/mediator": [
+{
+"@language": "az",
+"@value": "John Doe"
+},
+{
+"@language": "ru",
+"@value": "John Doe"
+},
+{
+"@language": "en",
+"@value": "John Doe"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-31T10:30:08.380509"
+}
+],
+"http://purl.org/dc/terms/publisher": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/c09ff990-fb40-4a9c-a925-d8d3d5049e39"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@value": "AZ E-Government Services and Public Facilities"
+},
+{
+"@language": "en",
+"@value": "EN E-Government Services and Public Facilities"
+},
+{
+"@language": "az",
+"@value": "AZ E-Government Services and Public Facilities"
+},
+{
+"@language": "ru",
+"@value": "RU E-Government Services and Public Facilities"
+}
+],
+"http://schema.org/about": [
+{
+"@id": "_:Nd49c942fbcf843698fbcd578a2187cd5"
+},
+{
+"@id": "_:N694e3fcf83c4432d8122fcd8c01f4670"
+},
+{
+"@id": "_:N3533cba610104b30a3e952ca9af5c806"
+},
+{
+"@id": "_:Nd2b5341efd654e6ab8c1fb1b34f5f7c1"
+}
+],
+"http://schema.org/creator": [
+{
+"@language": "az",
+"@value": "John Doe"
+},
+{
+"@language": "ru",
+"@value": "John Doe"
+},
+{
+"@language": "en",
+"@value": "John Doe"
+}
+],
+"http://schema.org/dateModified": [
+{
+"@value": "2024-07-31T10:30:08.380509"
+}
+],
+"http://schema.org/datePublished": [
+{
+"@value": "2024-07-11T11:32:32.285386"
+}
+],
+"http://schema.org/description": [
+{
+"@language": "ru",
+"@value": "RU This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+},
+{
+"@language": "en",
+"@value": "EN This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+},
+{
+"@language": "az",
+"@value": "AZ This dataset contains information about various government services, public facilities, and citizen feedback collected for enhancing e-governance."
+}
+],
+"http://schema.org/distribution": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/acef4571-dc6b-4782-83af-5cf45ba8c530"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/2436bbe5-fbef-4aba-a692-e64ad6c9307a"
+}
+],
+"http://schema.org/includedInDataCatalog": [
+{
+"@id": "_:Ne4d40b4f015c4380aba1cbbcac5823d2"
+},
+{
+"@id": "_:Nee37a36ac5d84dbcac9d0f610510160a"
+}
+],
+"http://schema.org/keywords": [
+{
+"@value": "technology"
+},
+{
+"@value": "egov"
+}
+],
+"http://schema.org/license": [
+{
+"@value": "License not specified"
+}
+],
+"http://schema.org/mediator": [
+{
+"@language": "ru",
+"@value": "John Doe"
+},
+{
+"@language": "az",
+"@value": "John Doe"
+},
+{
+"@language": "en",
+"@value": "John Doe"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "AZ E-Government Services and Public Facilities"
+},
+{
+"@language": "en",
+"@value": "EN E-Government Services and Public Facilities"
+},
+{
+"@language": "az",
+"@value": "AZ E-Government Services and Public Facilities"
+},
+{
+"@language": "ru",
+"@value": "RU E-Government Services and Public Facilities"
+}
+],
+"http://schema.org/publisher": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/c09ff990-fb40-4a9c-a925-d8d3d5049e39"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/dataset/e-government-services-and-public-facilities"
+}
+],
+"http://www.w3.org/ns/dcat#contactPoint": [
+{
+"@id": "_:Nc25d78f1b0244fb7a20389d14c89c211"
+}
+],
+"http://www.w3.org/ns/dcat#distribution": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/acef4571-dc6b-4782-83af-5cf45ba8c530"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0/resource/2436bbe5-fbef-4aba-a692-e64ad6c9307a"
+}
+],
+"http://www.w3.org/ns/dcat#keyword": [
+{
+"@value": "technology"
+},
+{
+"@value": "egov"
+}
+]
+},
+{
+"@id": "_:Ne4d40b4f015c4380aba1cbbcac5823d2",
+"@type": [
+"http://schema.org/DataCatalog"
+],
+"http://schema.org/description": [
+{
+"@value": ""
+}
+],
+"http://schema.org/name": [
+{
+"@value": "idda dev"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "_:Nee37a36ac5d84dbcac9d0f610510160a",
+"@type": [
+"http://schema.org/DataCatalog"
+],
+"http://schema.org/description": [
+{
+"@value": ""
+}
+],
+"http://schema.org/name": [
+{
+"@value": "idda dev"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "_:Nd49c942fbcf843698fbcd578a2187cd5",
+"@type": [
+"http://schema.org/Thing"
+],
+"http://schema.org/name": [
+{
+"@value": "population"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/group/2f9b303f-3e51-4ecf-b0c3-35be1d001416"
+}
+]
+},
+{
+"@id": "_:N694e3fcf83c4432d8122fcd8c01f4670",
+"@type": [
+"http://schema.org/Thing"
+],
+"http://schema.org/name": [
+{
+"@value": "population"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/group/2f9b303f-3e51-4ecf-b0c3-35be1d001416"
+}
+]
+},
+{
+"@id": "_:N3533cba610104b30a3e952ca9af5c806",
+"@type": [
+"http://schema.org/Thing"
+],
+"http://schema.org/name": [
+{
+"@value": "economics"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/group/26c3aeab-0f8d-4ecb-9f4b-3b93b0027294"
+}
+]
+},
+{
+"@id": "_:Nd2b5341efd654e6ab8c1fb1b34f5f7c1",
+"@type": [
+"http://schema.org/Thing"
+],
+"http://schema.org/name": [
+{
+"@value": "economics"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com/group/26c3aeab-0f8d-4ecb-9f4b-3b93b0027294"
+}
+]
+},
+{
+"@id": "_:Nc25d78f1b0244fb7a20389d14c89c211",
+"@type": [
+"http://www.w3.org/2006/vcard/ns#Organization"
+],
+"http://www.w3.org/2006/vcard/ns#fn": [
+{
+"@value": "John Doe"
+}
+],
+"http://www.w3.org/2006/vcard/ns#hasEmail": [
+{
+"@id": "mailto:contact@email.com"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com",
+"@type": [
+"http://www.w3.org/ns/dcat#Catalog"
+],
+"http://purl.org/dc/terms/language": [
+{
+"@value": "az"
+}
+],
+"http://purl.org/dc/terms/modified": [
+{
+"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+"@value": "2024-07-31T10:30:08.380509"
+}
+],
+"http://purl.org/dc/terms/title": [
+{
+"@value": "idda dev"
+}
+],
+"http://www.w3.org/ns/dcat#dataset": [
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/59120ab9-f860-4790-8115-15c39803534c"
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/dataset/247c0053-58f7-4efc-912a-dc7a95914af0"
+}
+],
+"http://xmlns.com/foaf/0.1/homepage": [
+{
+"@id": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "https://ckan.idda.dev.datopian.com/organization/c09ff990-fb40-4a9c-a925-d8d3d5049e39",
+"@type": [
+"http://schema.org/Organization",
+"http://xmlns.com/foaf/0.1/Organization"
+],
+"http://schema.org/contactPoint": [
+{
+"@id": "_:Ndbee48cb16bd479998cc2afc8690dc5e"
+},
+{
+"@id": "_:N695e07e5301640fa8d8b3cc1c619ba33"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "Sample Org"
+}
+],
+"http://xmlns.com/foaf/0.1/name": [
+{
+"@value": "Sample Org"
+}
+]
+},
+{
+"@id": "_:Ndbee48cb16bd479998cc2afc8690dc5e",
+"@type": [
+"http://schema.org/ContactPoint"
+],
+"http://schema.org/contactType": [
+{
+"@value": "customer service"
+}
+],
+"http://schema.org/email": [
+{
+"@value": "contact@email.com"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "John Doe"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+},
+{
+"@id": "_:N695e07e5301640fa8d8b3cc1c619ba33",
+"@type": [
+"http://schema.org/ContactPoint"
+],
+"http://schema.org/contactType": [
+{
+"@value": "customer service"
+}
+],
+"http://schema.org/email": [
+{
+"@value": "contact@email.com"
+}
+],
+"http://schema.org/name": [
+{
+"@value": "John Doe"
+}
+],
+"http://schema.org/url": [
+{
+"@value": "https://ckan.idda.dev.datopian.com"
+}
+]
+}
+]
