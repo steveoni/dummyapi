@@ -39,18 +39,18 @@
 "http://purl.org/dc/terms/title": [
 {
 "@language": "ru",
-"@value": "ru-r"
+"@value": "ru-ru"
 },
 {
-"@value": "az-r"
+"@value": "az-ru"
 },
 {
 "@language": "az",
-"@value": "az-r"
+"@value": "az-ro"
 },
 {
 "@language": "en",
-"@value": "en-r"
+"@value": "en-rp"
 }
 ],
 "http://schema.org/contentSize": [
@@ -80,18 +80,18 @@
 "http://schema.org/name": [
 {
 "@language": "en",
-"@value": "en-r"
+"@value": "en-rh"
 },
 {
 "@language": "ru",
-"@value": "ru-r"
+"@value": "ru-rkl"
 },
 {
-"@value": "az-r"
+"@value": "az-rkl"
 },
 {
 "@language": "az",
-"@value": "az-r"
+"@value": "az-rkl"
 }
 ],
 "http://schema.org/url": [
@@ -156,14 +156,14 @@
 "http://purl.org/dc/terms/title": [
 {
 "@language": "az",
-"@value": "nümunə_cs12345"
+"@value": "nümunə_cs123"
 },
 {
-"@value": "nümunə_cs12345"
+"@value": "nümunə_cs12"
 },
 {
 "@language": "en",
-"@value": "sample_csv123445"
+"@value": "sample_csv1"
 },
 {
 "@language": "ru",
@@ -306,18 +306,18 @@
 "http://purl.org/dc/terms/title": [
 {
 "@language": "ru",
-"@value": "RU Dataset Title"
+"@value": "RU Dataset Tit"
 },
 {
-"@value": "AZ Dataset Title"
+"@value": "AZ Dataset T"
 },
 {
 "@language": "en",
-"@value": "EN Dataset Title"
+"@value": "EN Dataset T"
 },
 {
 "@language": "az",
-"@value": "AZ Dataset Title"
+"@value": "AZ Datasete"
 }
 ],
 "http://schema.org/creator": [
@@ -402,18 +402,18 @@
 "http://schema.org/name": [
 {
 "@language": "az",
-"@value": "AZ Dataset Title"
+"@value": "AZ Dataseggffft Title"
 },
 {
 "@language": "ru",
-"@value": "RU Dataset Title"
+"@value": "RU DaTitle"
 },
 {
 "@value": "AZ Dataset Title"
 },
 {
 "@language": "en",
-"@value": "EN Dataset Title"
+"@value": "EN Daggggtaset Title"
 }
 ],
 "http://schema.org/publisher": [
@@ -453,7 +453,7 @@
 ],
 "http://schema.org/name": [
 {
-"@value": "idda dev"
+"@value": "idd dev"
 }
 ],
 "http://schema.org/url": [
